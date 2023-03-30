@@ -8,7 +8,7 @@ Licensed under the zlib license. See LICENSE.md for more information.
 =====================================================================
 --]]
 
-moreores = {}
+moreores = {100000000}
 
 local modpath = minetest.get_modpath("moreores")
 
